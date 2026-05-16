@@ -31,4 +31,13 @@ python ESTAT_DUALCHARGE_SIM.py
 
 ## Preview
 
-Here i will add some images on how the GUI looks once executed
+Here i will add some images/gif on how the simulation looks once executed :
+----------------------------------------------------------------------------
+- This is the window that will first open up where you have the option to add as many positive/negative charged particle
+
+  ![Simulation Demo](assets/preview1.png)
+
+- This how the simulation will look once executed
+
+  ![Simulation Demo](assets/preview.gif)
+
