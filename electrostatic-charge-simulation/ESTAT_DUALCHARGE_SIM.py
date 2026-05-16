@@ -1,6 +1,6 @@
 import tkinter as tk
 import random
-from ESTAT_DUALCHARGE_BACK import *
+from ESTAT_DUALCHARGE_PHYSICS_CORE import *
 
 # ---------------- ROOT ----------------
 
